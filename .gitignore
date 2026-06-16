@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Sensitive files
+application-local.properties
+application-secret.properties
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
